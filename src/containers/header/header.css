@@ -1,0 +1,127 @@
+.robots__header {
+    display: flex;
+}
+.robots__header-content {
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+
+    margin-right: 5rem;
+}
+.robots__header-content h1 {
+    font-family: var(--font-family);
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+}
+
+.robots__header-content p {
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 27px;
+    color: var(--color-text);
+
+    margin-top: 1.5rem;
+
+}
+.robots__header-content__input {
+    width: 100%;
+    margin: 2rem 0 1rem;
+    display: flex;
+}
+.robots__header-content__input input {
+    flex: 2;
+    min-height: 50px;
+    background:var(--color-footer);
+    font-size: 20px;
+    line-height: 27px;
+    font-family: var(--font-family);
+    border: 2px solid var(--color-footer);
+    padding: 0 1rem;
+    outline: none;
+    color: #fff;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.robots__header-content__input button {
+    flex: 0.6;
+    width: 100%;
+    min-height: 50px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    background: #d9d9d9;
+    border: 2px solid #d9d9d9;
+    padding: 0 1rem;
+    color: #040B18;
+    cursor: pointer;
+    outline: none;
+
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.robots__header-image {
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.robots__header-image img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+@media screen and (max-width: 1050px) {
+    .robots__header {
+        flex-direction: column;
+    }
+    .robots__header-content {
+        margin:0 0 3rem;
+    }
+}
+@media screen and (max-width: 650px) {
+    .robots__header {
+        padding-top: 2rem;
+    }
+.robots__header h1 {
+    font-size: 48px;
+    line-height: 60px;
+}
+.robots__header p {
+    font-size: 16px;
+    line-height: 24px;
+}
+.robots__header-content__input input,
+.robots__header-content__input button {
+    font-size: 16px;
+    line-height: 24px;
+}
+}
+@media screen and (max-width: 490px) {
+    .robots__header {
+        padding-top: 2rem;
+    }
+    .robots__header h1 {
+        font-size: 36px;
+        line-height: 34px;
+        height: 80px;
+    }
+    .robots__header p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+    .robots__header-content__input input,
+.robots__header-content__input button {
+    font-size: 16px;
+    line-height: 24px;
+}
+    }

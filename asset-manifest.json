@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/iis/static/css/main.06e46884.css",
+    "main.js": "/iis/static/js/main.89bd67fe.js",
+    "static/media/services-robot.png": "/iis/static/media/services-robot.00f73bdf29d7fd56f2f0.png",
+    "static/media/robot-ind.png": "/iis/static/media/robot-ind.13f306da5b059143e54b.png",
+    "static/media/review3.png": "/iis/static/media/review3.769981566878b3ab6249.png",
+    "static/media/collaborators-industrial-automation.jpg": "/iis/static/media/collaborators-industrial-automation.9a78d1e71eee8cf5011c.jpg",
+    "static/media/iis-office.jpg": "/iis/static/media/iis-office.80f828c6251fe86b4e32.jpg",
+    "static/media/review2.png": "/iis/static/media/review2.18f2e9111de66d894f89.png",
+    "static/media/review1.png": "/iis/static/media/review1.13891cb7d3a8b4421a87.png",
+    "static/media/collaborators-robotica.jpg": "/iis/static/media/collaborators-robotica.bf53e0be14e727e0c3d8.jpg",
+    "static/media/robot-colaborators-1.jpg": "/iis/static/media/robot-colaborators-1.5932013f480d05a18fd1.jpg",
+    "static/media/collaborators-software.jpg": "/iis/static/media/collaborators-software.0879f34e7e5451e08b58.jpg",
+    "static/media/what-is-plc.jpg": "/iis/static/media/what-is-plc.c5c1100a7d4be75b201e.jpg",
+    "static/media/collaborator-1.jpg": "/iis/static/media/collaborator-1.e6c7ca1219160a44dcab.jpg",
+    "static/media/software-img.jpg": "/iis/static/media/software-img.73737b4d8a8bf72f5be2.jpg",
+    "static/media/collaborator-2.jpg": "/iis/static/media/collaborator-2.76b117adde4067d024d0.jpg",
+    "static/media/blog-2.jpg": "/iis/static/media/blog-2.9b928fd49cecc02f69e7.jpg",
+    "static/media/robot-header-image2.jpg": "/iis/static/media/robot-header-image2.09345dbf574f15aeca83.jpg",
+    "static/media/collaborator-3.jpg": "/iis/static/media/collaborator-3.b16266b92e917881106c.jpg",
+    "static/media/blog-3.jpg": "/iis/static/media/blog-3.d58adcf0485d23b1b6b5.jpg",
+    "static/media/software-image3.jpg": "/iis/static/media/software-image3.d4327b95b385b60a4f85.jpg",
+    "static/media/blog-1.jpg": "/iis/static/media/blog-1.33acfe3d8ec2603b857e.jpg",
+    "static/media/blog-4.jpg": "/iis/static/media/blog-4.61d2de749e790bebfe62.jpg",
+    "static/media/software-image2.jpg": "/iis/static/media/software-image2.1a6e5ec80d68a6f029e3.jpg",
+    "static/media/schneider-logo-kasi.png": "/iis/static/media/schneider-logo-kasi.6647af552838f21814a5.png",
+    "static/media/mitsubishi-logo-kasi.png": "/iis/static/media/mitsubishi-logo-kasi.73c96104e8322c45d4ec.png",
+    "static/media/logo.svg": "/iis/static/media/logo.22788ac2318342b9c5a5b45279c8e7c8.svg",
+    "static/media/slick.svg": "/iis/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/iis/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/iis/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/iis/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/iis/index.html",
+    "main.06e46884.css.map": "/iis/static/css/main.06e46884.css.map",
+    "main.89bd67fe.js.map": "/iis/static/js/main.89bd67fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e46884.css",
+    "static/js/main.89bd67fe.js"
+  ]
+}

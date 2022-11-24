@@ -51,7 +51,7 @@ const ReviewsCarousel = () => {
         <Slider {...settings}>
           {images.map((img, idx) => (
             <div
-              className={idx == imageIndex ? "slide activeSlide" : "slide"}
+              className={idx === imageIndex ? "slide activeSlide" : "slide"}
               key={idx}
             >
               <img src={img} alt="customer review" />
